@@ -1,1 +1,1 @@
-alert("Hello! I am an alert box!!");
+conslole.log("theme compoent works");
