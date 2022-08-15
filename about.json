@@ -1,8 +1,5 @@
 {
-   "name" : "Roboto theme component",
-   "about_url": "https://github.com/SamSaffron/discourse-roboto-theme",
-   "license_url": "https://github.com/SamSaffron/discourse-roboto-theme/blob/master/LICENSE",
-   "assets": {
-        "roboto": "assets/roboto.woff2"
-   }
+  "name": "My first remote theme",
+  "about_url": "https://some.url.com",
+  "license_url": "https://github.com/GitHubUsername/my-first-remote-theme/blob/master/LICENSE"
 }
